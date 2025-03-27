@@ -209,6 +209,8 @@ def synth_samples(targets, predictions, vocoder, model_config, preprocess_config
     for wav, basename in zip(wav_predictions, basenames):
         wavfile.write(os.path.join(path, "{}.wav".format(basename)), sampling_rate, wav)
 
+    # TODO: need return wavs
+
 
 def plot_mel(data, stats, titles):
     fig, axes = plt.subplots(len(data), 1, squeeze=False)

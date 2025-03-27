@@ -1,0 +1,295 @@
+# Đơn vị tiền tệ và kinh tế
+vnd: đồng
+d: đồng
+k: nghìn
+m: triệu
+b: tỷ
+usd: đô la mỹ
+eur: euro
+jpy: yên nhật
+cny: nhân dân tệ
+krw: won hàn quốc
+
+# Đơn vị đo chiều dài
+km: kilô mét
+m: mét
+dm: đềxi mét
+cm: xenti mét
+mm: mili mét
+um: micrômét
+nm: nanômét
+in: inch
+ft: feet
+yd: yard
+mi: dặm
+
+# Đơn vị đo khối lượng
+kg: kilô gram
+g: gram
+mg: mili gram
+ug: micrô gram
+t: tấn
+lb: pound
+oz: ounce
+
+# Đơn vị đo thời gian
+s: giây
+ms: mili giây
+us: micrô giây
+min: phút
+h: giờ
+d: ngày
+w: tuần
+mth: tháng
+y: năm
+
+# Đơn vị đo nhiệt độ
+°c: độ xê
+ºc: độ xê
+°f: độ ép
+ºf: độ ép
+°k: độ kenvin
+ºk: độ kenvin
+
+# Đơn vị đo góc
+°: độ
+º: độ
+rad: rađian
+deg: độ
+
+# Đơn vị đo điện và năng lượng
+v: vôn
+kv: kilô vôn
+mv: mili vôn
+a: ampe
+ma: mili ampe
+ua: micrô ampe
+w: oát
+kw: kilô oát
+mw: mêga oát
+gw: giga oát
+j: giun
+kj: kilô giun
+mj: mêga giun
+tj: tera giun
+kwh: kilô oát giờ
+mwh: mêga oát giờ
+ω: ôm
+kω: kilô ôm
+mω: mêga ôm
+f: phara
+uf: micrô phara
+h: henri
+va: vôn ampe
+kva: kilô vôn ampe
+ev: êlêctrôn vôn
+
+# Đơn vị đo diện tích và thể tích
+m2: mét vuông
+km2: kilô mét vuông
+ha: héc ta
+m3: mét khối
+cm3: xenti mét khối
+l: lít
+ml: mili lít
+gal: gallon
+fl oz: fluid ounce
+
+# Đơn vị đo tốc độ và vận tốc
+km/h: kilô mét trên giờ
+m/s: mét trên giây
+mph: dặm trên giờ
+kts: knot
+rad/s: rađian trên giây
+
+# Đơn vị đo áp suất và lực
+pa: pátcan
+kpa: kilô pátcan
+mpa: mêga pátcan
+bar: ba
+psi: psi
+n: niutơn
+kn: kilô niutơn
+kgf: kilôgram lực
+
+# Đơn vị đo tần số và quang học
+hz: héc
+khz: kilô héc
+mhz: mêga héc
+ghz: giga héc
+lm: lumen
+lx: lux
+cd: canđela
+
+# Đơn vị đo mật độ và lưu lượng
+kg/m3: kilôgram trên mét khối
+g/cm3: gram trên xenti mét khối
+m3/s: mét khối trên giây
+l/s: lít trên giây
+l/km: lít trên kilômét
+
+# Đơn vị hóa học và vật lý
+mol: mon
+mmol: mili mon
+cal: calori
+kcal: kilô calori
+ppm: phần triệu
+ppb: phần tỷ
+
+# Viết tắt thông dụng trong ngôn ngữ hàng ngày
+ko: không
+dc: được
+bt: biết
+ok: ô kê
+lol: cười lớn
+btw: bằng cách nào đó
+idk: không biết
+tt: tiếp tục
+tks: cảm ơn
+pls: làm ơn
+msg: tin nhắn
+ppl: mọi người
+r: rồi
+nha: nhé
+h: giờ
+ng: người
+sp: sản phẩm
+v: vậy
+vs: với
+lm: làm
+cv: công việc
+g: gửi
+đg: đang
+đc: được
+k: không
+z: vậy
+sz: size
+qty: số lượng
+info: thông tin
+upd: cập nhật
+acc: tài khoản
+pass: mật khẩu
+link: liên kết
+pic: hình ảnh
+vid: video
+add: thêm
+del: xóa
+edit: chỉnh sửa
+share: chia sẻ
+like: thích
+cmt: bình luận
+sub: đăng ký
+unsub: hủy đăng ký
+onl: online
+off: offline
+web: trang web
+app: ứng dụng
+ads: quảng cáo
+pr: pi a
+fb: facebook
+ig: instagram
+yt: youtube
+tiktok: tíc tók
+vlog: vi lốc
+blog: bờ lốc
+trend: xu hướng
+viral: lan truyền
+meme: mêm
+gif: gíp
+emoji: biểu tượng cảm xúc
+hashtag: thẻ bắt đầu bằng dấu thăng
+
+# Viết tắt số đếm và tỷ lệ
+%: phần trăm
+‰: phần nghìn
+k: nghìn
+m: triệu
+b: tỷ
+doz: tá
+pcs: cái
+pkg: gói
+set: bộ
+unit: đơn vị
+
+# Viết tắt địa lý và thời tiết
+tp: thành phố
+q: quận
+h: huyện
+p: phường
+x: xã
+đl: đường lớn
+kdc: khu dân cư
+tt: trung tâm
+n: bắc
+s: nam
+e: đông
+w: tây
+ne: đông bắc
+nw: tây bắc
+se: đông nam
+sw: tây nam
+temp: nhiệt độ
+humid: độ ẩm
+rain: mưa
+wind: gió
+storm: bão
+fog: sương mù
+snow: tuyết
+cloud: mây
+
+# Viết tắt giáo dục và công việc
+uni: đại học
+sch: trường học
+cls: lớp học
+subj: môn học
+exam: kỳ thi
+hw: bài tập về nhà
+proj: dự án
+cv: sơ yếu lý lịch
+jd: mô tả công việc
+hr: nhân sự
+mgr: quản lý
+ceo: giám đốc điều hành
+cto: giám đốc công nghệ
+cfo: giám đốc tài chính
+dev: lập trình viên
+qa: kiểm thử chất lượng
+pm: quản lý dự án
+ot: làm thêm giờ
+wfh: làm việc tại nhà
+biz: kinh doanh
+corp: công ty
+ltd: trách nhiệm hữu hạn
+inc: tập đoàn
+dept: phòng ban
+
+# Viết tắt y tế
+doc: bác sĩ
+nurse: y tá
+med: thuốc
+rx: đơn thuốc
+bp: huyết áp
+hr: nhịp tim
+temp: nhiệt độ cơ thể
+icu: phòng chăm sóc đặc biệt
+er: phòng cấp cứu
+op: phẫu thuật
+lab: phòng thí nghiệm
+mg/dl: mili gram trên đềxi lít
+ml/min: mili lít trên phút
+
+# Viết tắt giao thông và vận tải
+car: xe hơi
+bike: xe máy
+bus: xe buýt
+train: tàu hỏa
+plane: máy bay
+ship: tàu thủy
+port: cảng
+rwy: đường băng
+spd: tốc độ
+dist: khoảng cách
+fuel: nhiên liệu
+gps: định vị toàn cầu
+eta: thời gian đến dự kiến
+etd: thời gian khởi hành dự kiến
